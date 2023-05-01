@@ -13,7 +13,7 @@ Link: [https://drive.google.com/open?id=1ml-Qwv4yHxepp852N-aL0U5iZzqLNZ4B](https
  - https://web.stanford.edu/~jurafsky/slp3/24.pdf
  - For better understanding: Open notebook file --> change the question --> run line by line
  
-<img src="Framework.png">
+<img src="KBSA/Framework.png">
 
 
 
