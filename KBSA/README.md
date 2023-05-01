@@ -104,32 +104,4 @@ Passage ranked 4
 
 ### Extracting answers with BERT
 
-Passage:  Ông Phạm Nhật Vượng tiếp tục được công nhận là người giàu nhất Việt Nam với tài sản định giá 6,6 tỷ USD, đứng thứ 239 thế giới, tăng 2,3 tỷ USD so với năm ngoái.
-
-Answer :  Phạm Nhật Vượng
-
-Score  :  0.9999549482428222
-
-------------------------------
-
-Passage:  VOV.VN - Ông Phạm Nhật Vượng là người giàu nhất Việt Nam với khối tài sản trị giá 6,7 tỷ USD, tương đương 152,9 ngàn tỷ đồng.
-
-Answer :  Phạm Nhật Vượng
-
-Score  :  0.9999439551387689
-
-------------------------------
-
-Passage:  Cho đến nay vẫn chưa ai thay thế được vị trí người giàu nhất Việt Nam của ông Phạm Nhật Vượng. Giá trị tài sản của ông Vượng đã tăng “chóng mặt” trong tháng 3/2019 này, tuy nhiên, con số có thể cao hơn cả thống kê của Forbes.
-
-Answer :  Phạm Nhật Vượng
-
-Score  :  0.9999150228723965
-
-------------------------------
-
-Passage:  Trước đó vào năm 2010, Phạm Nhật Vượng là người giàu nhất trên TTCK Việt Nam với số tài sản gần 15.800 tỷ đồng, giàu thứ nhì Việt Nam (theo xếp hạng trên sàn chứng khoán) năm 2007, 2008. [4] Ông đạt được vị trí này vào năm 2007, khi Công ty Vinpearl thuộc nhóm các công ty của Vincom niêm yết 100 triệu cổ phiếu trên sàn giao dịch chứng khoán Tp. Hồ Chí Minh.
-
-Answer :  Phạm Nhật Vượng
-
-Score  :  0.9997637352104664
+Not yet finish
