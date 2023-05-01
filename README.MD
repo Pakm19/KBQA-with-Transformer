@@ -7,7 +7,7 @@ pip3 install -r path/requirements.txt
 ### Download pretrain model 
 Link: [https://drive.google.com/open?id=1ml-Qwv4yHxepp852N-aL0U5iZzqLNZ4B](https://drive.google.com/file/d/1x0-2fBnoXKXU5Gr4zTzvprRo6-KaN9D4/view?usp=share_link)
 - After that, extract and put all files into "resources" directory
-- Run ipynb
+
 ### # Architecture Overview
  - Question Answering based IR - Speech and language processing (daniel jurafsky)
  - https://web.stanford.edu/~jurafsky/slp3/24.pdf
