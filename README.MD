@@ -1,4 +1,4 @@
-#  Question Answering with Transformer
+#  Question Answering with Transformer ( Not Yet Finish )
 
 - Question: **What is Graph Neural Network?**
 - Answer: **Graph Neural Network (GNN) is a class of ANN for processing data that can be presented as graphs. The latest research work related to GNN includes [1] … [2] … [3] …**
@@ -14,6 +14,7 @@ Link: [https://drive.google.com/open?id=1ml-Qwv4yHxepp852N-aL0U5iZzqLNZ4B](https
  - For better understanding: Open notebook file --> change the question --> run line by line
  
 <img src="KBSA/Framework.png">
+
 
 
 
